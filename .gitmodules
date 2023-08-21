@@ -1,0 +1,3 @@
+[submodule "External/simpleREPL"]
+	path = External/simpleREPL
+	url = https://github.com/jfjlaros/simpleREPL.git
